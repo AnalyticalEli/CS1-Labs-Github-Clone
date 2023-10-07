@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 5C Ahmed Adding Intergers (Accumulator)", "Lab 5C Ahmed Adding Intergers (Accumulator)\Lab 5C Ahmed Adding Intergers (Accumulator).vcxproj", "{9B470DAF-9D48-467D-AE14-4D6ED403A093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B470DAF-9D48-467D-AE14-4D6ED403A093}.Debug|x64.ActiveCfg = Debug|x64
+		{9B470DAF-9D48-467D-AE14-4D6ED403A093}.Debug|x64.Build.0 = Debug|x64
+		{9B470DAF-9D48-467D-AE14-4D6ED403A093}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B470DAF-9D48-467D-AE14-4D6ED403A093}.Debug|x86.Build.0 = Debug|Win32
+		{9B470DAF-9D48-467D-AE14-4D6ED403A093}.Release|x64.ActiveCfg = Release|x64
+		{9B470DAF-9D48-467D-AE14-4D6ED403A093}.Release|x64.Build.0 = Release|x64
+		{9B470DAF-9D48-467D-AE14-4D6ED403A093}.Release|x86.ActiveCfg = Release|Win32
+		{9B470DAF-9D48-467D-AE14-4D6ED403A093}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CD89C5B-13EB-44B5-B38A-09F8730BD6B1}
+	EndGlobalSection
+EndGlobal

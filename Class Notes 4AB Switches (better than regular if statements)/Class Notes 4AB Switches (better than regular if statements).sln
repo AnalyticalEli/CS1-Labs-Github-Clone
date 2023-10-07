@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class Notes 4AB Switches (better than regular if statements)", "Class Notes 4AB Switches (better than regular if statements)\Class Notes 4AB Switches (better than regular if statements).vcxproj", "{93E31A4B-F900-4B38-81AE-A81EAAF43DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E31A4B-F900-4B38-81AE-A81EAAF43DCF}.Debug|x64.ActiveCfg = Debug|x64
+		{93E31A4B-F900-4B38-81AE-A81EAAF43DCF}.Debug|x64.Build.0 = Debug|x64
+		{93E31A4B-F900-4B38-81AE-A81EAAF43DCF}.Debug|x86.ActiveCfg = Debug|Win32
+		{93E31A4B-F900-4B38-81AE-A81EAAF43DCF}.Debug|x86.Build.0 = Debug|Win32
+		{93E31A4B-F900-4B38-81AE-A81EAAF43DCF}.Release|x64.ActiveCfg = Release|x64
+		{93E31A4B-F900-4B38-81AE-A81EAAF43DCF}.Release|x64.Build.0 = Release|x64
+		{93E31A4B-F900-4B38-81AE-A81EAAF43DCF}.Release|x86.ActiveCfg = Release|Win32
+		{93E31A4B-F900-4B38-81AE-A81EAAF43DCF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2409A4-49CA-435B-A4C6-77F253C2312E}
+	EndGlobalSection
+EndGlobal
