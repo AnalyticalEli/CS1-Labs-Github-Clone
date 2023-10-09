@@ -1,0 +1,5 @@
+﻿  Array + Random Number.cpp
+C:\Users\hands\OneDrive\Documents\CS1 Labs\C++ Array Basics\C++ Array Basics\Array + Random Number.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Array Basics.cpp
+  Generating Code...
+  C++ Array Basics.vcxproj -> C:\Users\hands\OneDrive\Documents\CS1 Labs\C++ Array Basics\x64\Debug\C++ Array Basics.exe
