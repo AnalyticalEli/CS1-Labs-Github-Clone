@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 7a Multiplication Table", "Lab 7a Multiplication Table\Lab 7a Multiplication Table.vcxproj", "{AD11C6B4-7784-4EED-92CD-0942549BD0D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD11C6B4-7784-4EED-92CD-0942549BD0D0}.Debug|x64.ActiveCfg = Debug|x64
+		{AD11C6B4-7784-4EED-92CD-0942549BD0D0}.Debug|x64.Build.0 = Debug|x64
+		{AD11C6B4-7784-4EED-92CD-0942549BD0D0}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD11C6B4-7784-4EED-92CD-0942549BD0D0}.Debug|x86.Build.0 = Debug|Win32
+		{AD11C6B4-7784-4EED-92CD-0942549BD0D0}.Release|x64.ActiveCfg = Release|x64
+		{AD11C6B4-7784-4EED-92CD-0942549BD0D0}.Release|x64.Build.0 = Release|x64
+		{AD11C6B4-7784-4EED-92CD-0942549BD0D0}.Release|x86.ActiveCfg = Release|Win32
+		{AD11C6B4-7784-4EED-92CD-0942549BD0D0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E77466A-0EC9-4CD4-A5E7-15C6A690EF74}
+	EndGlobalSection
+EndGlobal
