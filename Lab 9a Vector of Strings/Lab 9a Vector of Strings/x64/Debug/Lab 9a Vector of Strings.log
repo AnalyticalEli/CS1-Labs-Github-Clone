@@ -1,0 +1,4 @@
+﻿  Lab 9a Vector Strings.cpp
+C:\Users\hands\OneDrive\Documents\CS1 Labs\Lab 9a Vector of Strings\Lab 9a Vector of Strings\Lab 9a Vector Strings.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hands\OneDrive\Documents\CS1 Labs\Lab 9a Vector of Strings\Lab 9a Vector of Strings\Lab 9a Vector Strings.cpp(85,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab 9a Vector of Strings.vcxproj -> C:\Users\hands\OneDrive\Documents\CS1 Labs\Lab 9a Vector of Strings\x64\Debug\Lab 9a Vector of Strings.exe
