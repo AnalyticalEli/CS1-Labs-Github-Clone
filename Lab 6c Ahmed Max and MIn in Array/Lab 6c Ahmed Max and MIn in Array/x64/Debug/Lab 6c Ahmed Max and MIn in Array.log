@@ -1,0 +1,4 @@
+﻿  Ahmed Max and Min Array.cpp
+C:\Users\hands\OneDrive\Documents\CS1 Labs\Lab 6c Ahmed Max and MIn in Array\Lab 6c Ahmed Max and MIn in Array\Ahmed Max and Min Array.cpp(28,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hands\OneDrive\Documents\CS1 Labs\Lab 6c Ahmed Max and MIn in Array\Lab 6c Ahmed Max and MIn in Array\Ahmed Max and Min Array.cpp(38,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab 6c Ahmed Max and MIn in Array.vcxproj -> C:\Users\hands\OneDrive\Documents\CS1 Labs\Lab 6c Ahmed Max and MIn in Array\x64\Debug\Lab 6c Ahmed Max and MIn in Array.exe
