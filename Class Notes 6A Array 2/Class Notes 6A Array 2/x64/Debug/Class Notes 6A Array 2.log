@@ -1,0 +1,4 @@
+﻿  ClassNotes Array Continued.cpp
+C:\Users\hands\OneDrive\Documents\CS1 Labs\Class Notes 6A Array 2\Class Notes 6A Array 2\ClassNotes Array Continued.cpp(27,13): warning C4311: '<function-style-cast>': pointer truncation from 'char *' to 'int'
+C:\Users\hands\OneDrive\Documents\CS1 Labs\Class Notes 6A Array 2\Class Notes 6A Array 2\ClassNotes Array Continued.cpp(27,13): warning C4302: '<function-style-cast>': truncation from 'char *' to 'int'
+  Class Notes 6A Array 2.vcxproj -> C:\Users\hands\OneDrive\Documents\CS1 Labs\Class Notes 6A Array 2\x64\Debug\Class Notes 6A Array 2.exe
